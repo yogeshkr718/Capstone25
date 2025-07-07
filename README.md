@@ -1,6 +1,4 @@
 # Capstone25
-Absolutely bhai! Here’s a **complete and professional `README.md`** for your GitHub repo for:
-
 🚗 **Real-Time Dynamic Parking Price Optimization using Pathway & Bokeh**
 
 This includes:
